@@ -6,20 +6,20 @@
 
 ## 🛠️ Technology & Tools
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/visualstudiocode.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/vim.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/c.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/cplusplus.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/java.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/python.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/angular.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/node-dot-js.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/mongodb.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/mysql.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/docker.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/apachekafka.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/gnubash.svg" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/edits/assets/powershell.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/visualstudiocode.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/vim.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/c.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/cplusplus.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/java.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/python.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/angular.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/node-dot-js.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/mongodb.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/mysql.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/docker.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/apachekafka.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/gnubash.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/powershell.svg" />
 
 <br />
 <br />
