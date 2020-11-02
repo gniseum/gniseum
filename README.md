@@ -1,4 +1,4 @@
-### Hi there, I am Nate 👋
+### Hi there, I am gniseum 👋
 
 ## 👷 Currently Working On
 - Network analysis using machine learning
@@ -28,7 +28,7 @@
 
 ## ✍️ Blog & Writing
 
-Coming soon
+coding-thoughts.com
 
 ## 📈 Github Stats
 
