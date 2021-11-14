@@ -1,8 +1,7 @@
 ### Hi there, I am gniseum 👋
 
 ## 👷 Currently Working On
-- Network analysis using machine learning
-- Porting code from previous courses
+- Android development
 
 ## 🛠️ Technology & Tools
 
