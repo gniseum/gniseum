@@ -1,7 +1,7 @@
 ### Hi there, I am gniseum 👋
 
 ## 👷 Currently Working On
-- Android development
+- Bug Tracker
 
 ## 🛠️ Technology & Tools
 
