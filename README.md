@@ -1,7 +1,8 @@
 ### Hi there, I am gniseum 👋
 
 ## 👷 Currently Working On
-- Bug Tracker
+- C#
+- Golang
 
 ## 🛠️ Technology & Tools
 
