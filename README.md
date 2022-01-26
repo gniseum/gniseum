@@ -12,6 +12,7 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/cplusplus.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/java.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/python.svg" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/go-logo_black.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/angular.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/node-dot-js.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/gniseum/gniseum/blob/main/assets/mongodb.svg" />
